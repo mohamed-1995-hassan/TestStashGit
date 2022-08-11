@@ -8,6 +8,5 @@ namespace TestGit
 {
     internal class M_Class
     {
-        dfsd
     }
 }
