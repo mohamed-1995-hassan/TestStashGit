@@ -8,5 +8,6 @@ namespace TestGit
 {
     internal class M_Class
     {
+        //Console.WriteLine("first change");
     }
 }
