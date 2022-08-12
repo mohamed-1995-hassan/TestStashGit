@@ -9,5 +9,7 @@ namespace TestGit
     internal class M_Class
     {
         //Master 
+        //Conosle.WriteLine("Master");
+        //Console.Master
     }
 }
